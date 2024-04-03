@@ -1,5 +1,5 @@
-import {Header} from "./component/Header.tsx";
-import {AttendeeList} from "./component/Attendee-list.tsx";
+import {Header} from "./component/header.tsx";
+import {AttendeeList} from "./component/attendee-list.tsx";
 
 
 export function App() {
