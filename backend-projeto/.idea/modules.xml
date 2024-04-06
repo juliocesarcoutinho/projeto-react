@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nlw-unite-nodejs.iml" filepath="$PROJECT_DIR$/.idea/nlw-unite-nodejs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beckend-projeto.iml" filepath="$PROJECT_DIR$/.idea/beckend-projeto.iml" />
     </modules>
   </component>
 </project>
